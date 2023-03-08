@@ -1,0 +1,19 @@
+{
+  "name": "pixelemporium",
+  "version": "1.0.0",
+  "description": "It is a game hosting application that informs the trend of games and games for free, in addition to storing and selling indie games that can be registered by developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernando-juni0/PixelEmporium.git"
+  },
+  "author": "Fernando Júnio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernando-juni0/PixelEmporium/issues"
+  },
+  "homepage": "https://github.com/fernando-juni0/PixelEmporium#readme"
+}
